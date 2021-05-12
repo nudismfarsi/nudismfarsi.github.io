@@ -26,5 +26,5 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: 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
+          github_token: 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
           publish_dir: ./public
